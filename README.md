@@ -27,16 +27,15 @@
     [+] high_signal_to_noise_communication
     [+] amplify_peers_&_share_ownership
     [+] engineer_interfaces_based_on_reciprocity
-    [+] leave_the_system_better_than_you_found_it
+    [+] leave_things_better_than_you_found_them
 </pre>
 
 <!-- [ ◐ ] ACTIVE RESEARCH & EXPLORATION -->
 <pre>
-<strong>[ ◐ ] active.research</strong>
+<strong>[ ◐ ] active</strong>
     [+] self-sovereign_identity(did, vc)
     [+] zero-knowledge_proofs
     [+] adversarial_resilience(gossip, dht)
-    [+] consensus_without_authority
 </pre>
 
 <p align="center">
