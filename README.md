@@ -39,5 +39,5 @@
 </pre>
 
 <p align="center">
-  [ <a href="mailto:miguel.sicilia.garcia@gmail.com">establish.connection</a> ]
+  [ <a href="mailto:miguel.sicilia.garcia@gmail.com">establish.conn</a> ]
 </p>
