@@ -1,16 +1,44 @@
-## Hi there 👋
+<pre>
+[ system.boot ]
+[ state.synced ]
+[ kernel.ready ]
+</pre>
 
-<!--
-**msiciliag/msiciliag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  cr34t3 th3 th1ngs y0u w1sh 3x1st3d
+  <br>
+  <em>// ROT3 :: key: trinitas :: frqwhpsodwd dollv wudghuh</em>
+</p>
 
-Here are some ideas to get you started:
+<!-- [ ● ] ESTABLISHED PROTOCOLS & CORE PRINCIPLES -->
+<pre>
+<strong>[ ● ] core.toolkit</strong>
+    [+] descriptor_protocol(__get__, __set__)
+    [+] strong_typing_&_interface-driven_design
+    [+] formal_grammars_&_compiler_theory(chomsky_hierarchy, ast)
+    [+] boolean_algebra_&_logic_gate_synthesis
+    [+] relational_algebra_&_set_theory
+    [+] production_ready_fhe(concrete-ml)
+    [+] health_interoperability_standards(fhir)
+    [+] algorithmic_complexity_&_data_structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>[ ● ] operating.ethos</strong>
+    [+] deconstruct_problems_to_first_principles
+    [+] high_signal_to_noise_communication
+    [+] amplify_peers_&_share_ownership
+    [+] engineer_interfaces_based_on_reciprocity
+    [+] leave_the_system_better_than_you_found_it
+</pre>
+
+<!-- [ ◐ ] ACTIVE RESEARCH & EXPLORATION -->
+<pre>
+<strong>[ ◐ ] active.research</strong>
+    [+] self-sovereign_identity(did, vc)
+    [+] zero-knowledge_proofs
+    [+] adversarial_resilience(gossip, dht)
+    [+] consensus_without_authority
+</pre>
+
+<p align="center">
+  [ <a href="mailto:tu-email-aqui">establish.connection</a> ]
+</p>
