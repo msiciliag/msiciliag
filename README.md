@@ -2,11 +2,8 @@
 [ state.synced ]
 </pre>
 
-
 <p align="center">
   create things you wish existed
-</p>
-<p align="center">
   <br>
   <em>// ROT:: key: trinitas :: frqwhpsodwd dollv wudghuh</em>
 </p>
