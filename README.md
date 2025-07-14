@@ -36,7 +36,7 @@
 <strong>[ ◐ ] active</strong>
     [+] self-sovereign_identity(did, vc)
     [+] zero-knowledge_proofs
-    [+] spring_bot
+    [+] spring_boot
 </pre>
 
 <p align="center">
