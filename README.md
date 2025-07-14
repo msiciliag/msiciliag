@@ -1,13 +1,11 @@
 <pre>
-[ system.boot ]
 [ state.synced ]
-[ kernel.ready ]
 </pre>
 
 <p align="center">
-  cr34t3 th3 th1ngs y0u w1sh 3x1st3d
   <br>
   <em>// ROT:: key: trinitas :: frqwhpsodwd dollv wudghuh</em>
+  cr34t3 th3 th1ngs y0u w1sh 3x1st3d
 </p>
 
 <!-- [ ● ] ESTABLISHED PROTOCOLS & CORE PRINCIPLES -->
