@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  cr34t3 th3 th1ngs y0u w1sh 3x1st3d
+  create things you wish existed
 </p>
 
 
