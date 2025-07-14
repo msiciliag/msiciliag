@@ -36,7 +36,7 @@
 <strong>[ ◐ ] active</strong>
     [+] self-sovereign_identity(did, vc)
     [+] zero-knowledge_proofs
-    [+] adversarial_resilience(gossip, dht)
+    [+] spring_bot
 </pre>
 
 <p align="center">
