@@ -20,10 +20,9 @@
     [+] strong_typing_&_interface-driven_design
     [+] formal_grammars_&_compiler_theory(chomsky_hierarchy, ast)
     [+] boolean_algebra_&_logic_gate_synthesis
-    [+] relational_algebra_&_set_theory
     [+] production_ready_fhe(concrete-ml)
     [+] health_interoperability_standards(fhir)
-    [+] algorithmic_complexity_&_data_structures
+    [+] algorithmic_complexity_&_leet
 
 <strong>[ ● ] operating.ethos</strong>
     [+] deconstruct_problems_to_first_principles
