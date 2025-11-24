@@ -1,7 +1,3 @@
-<pre>
-[ state.synced ]
-</pre>
-
 <p align="center">
   create things you wish existed
   <br>
