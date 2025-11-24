@@ -8,17 +8,23 @@
 <!-- [ ● ] ESTABLISHED PROTOCOLS & CORE PRINCIPLES -->
 <pre>
 <strong>[ ● ] core.toolkit</strong>
-    [+] descriptor_protocol(__get__, __set__)
-    [+] strong_typing_&_interface-driven_design
     [+] production_ready_fhe(concrete-ml)
-    [+] health_interoperability_standards(fhir)
+    [+] llm_prompting_and_life_cicle(mlops)
+    [+] health_interoperability_standards(fhir omop)
     [+] algorithmic_complexity_&_leetcode
+    [+] agentic_ai_and_adk
 
 <strong>[ ● ] operating.ethos</strong>
+    [+] a_philosophy_on_sw_desing
     [+] deconstruct_problems
     [+] high_signal_to_noise
     [+] amplify_peers
     [+] leave_better_than_you_found
+
+<strong>[ ● ] fluent.in </strong>
+    [+] taming nonvenomous snakes
+    [+] brewing coffe
+    [+] queueing sequels
 </pre>
 
 <!-- [ ◐ ] ACTIVE RESEARCH & EXPLORATION -->
